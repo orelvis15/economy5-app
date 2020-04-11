@@ -1,0 +1,18 @@
+.spacer3 {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  min-height: 350px;
+  position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.65),
+      rgba(255, 255, 255, 0.65)
+    ),
+    url("../../assets/spacer2.svg");
+}
+.info {
+}
